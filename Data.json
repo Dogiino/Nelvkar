@@ -1,4 +1,5 @@
 {
-    "Reproductor":"https://raw.githubusercontent.com/Dogiino/NELVKAR/refs/heads/main/Reproductor.py",
-    "sad":"asd"
+    "Reproductor":{
+        "URL":"https://raw.githubusercontent.com/Dogiino/NELVKAR/refs/heads/main/Reproductor.py"
+    }
 }
